@@ -1,0 +1,1 @@
+Valor máximo que pode ser colocado na mochila: 156
