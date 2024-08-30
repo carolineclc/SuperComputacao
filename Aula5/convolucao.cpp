@@ -3,9 +3,9 @@
 #include <omp.h>      // Inclui a biblioteca OpenMP para paralelismo com threads.
 #include <chrono>     // Inclui a biblioteca para medição de tempo.
 
-#define N 1000 // Define o tamanho da matriz NxN.
+#define N 100 // Define o tamanho da matriz NxN.
 #define FILTER_SIZE 5 // Define o tamanho do filtro 5x5.
-#define ITERATIONS 100 // Define o número de iterações de convolução.
+#define ITERATIONS 30 // Define o número de iterações de convolução.
 
 
 // Função para realizar a convolução em um elemento da matriz.
