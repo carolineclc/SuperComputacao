@@ -1,0 +1,4 @@
+Tempo: 1.7188e-05 segundos
+
+Valor: 3320
+Peso: 405
